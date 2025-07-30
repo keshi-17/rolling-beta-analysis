@@ -26,7 +26,7 @@ pip install yfinance pandas numpy plotly scipy ipython
 
 ## Usage
 1. Clone the repository:
-git clone https://github.com/yourusername/rolling-beta-analysis.git
+git clone https://github.com/keshi-17/rolling-beta-analysis.git
 cd rolling-beta-analysis
 
 
